@@ -4,6 +4,7 @@ This repository contains a collection of fullstack boilerplates for different te
 
 ## NextJS
 
+- `nextjs-prisma-tailwind`: NextJS, Prisma, TailwindCSS, TypeScript
 - `nextjs-auth-drizzle`: NextJS, PostgreSQL, Drizzle, NextAuth, TailwindCSS, TypeScript
 - `nextjs-skeleton`: NextJS, TypeScript
 - `nextjs-tailwindcss`: NextJS, TailwindCSS, TypeScript
