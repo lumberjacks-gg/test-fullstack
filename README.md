@@ -7,3 +7,7 @@ This repository contains a collection of fullstack boilerplates for different te
 - `nextjs-auth-drizzle`: NextJS, PostgreSQL, Drizzle, NextAuth, TailwindCSS, TypeScript
 - `nextjs-skeleton`: NextJS, TypeScript
 - `nextjs-tailwindcss`: NextJS, TailwindCSS, TypeScript
+
+## ExpressJS
+
+- `expressjs-reactjs-skeleton`: ExpressJS, ReactJS, TypeScript
