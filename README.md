@@ -9,6 +9,10 @@ This repository contains a collection of fullstack boilerplates for different te
 - `nextjs-skeleton`: NextJS, TypeScript
 - `nextjs-tailwindcss`: NextJS, TailwindCSS, TypeScript
 
+## NestJS
+
+- `nestjs-reactjs-tailwind`: NestJS, ReactJS, TailwindCSS, TypeScript
+
 ## ExpressJS
 
 - `expressjs-reactjs-skeleton`: ExpressJS, ReactJS, TypeScript
